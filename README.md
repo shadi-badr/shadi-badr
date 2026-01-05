@@ -1,4 +1,4 @@
-# Hi, I'm Shadi 👋
+<h1 align="center">Hi, I'm Shadi 👋</h1>
 
 I'm a **Junior Data Analyst** passionate about learning and turning data into meaningful insights.  
 I work with **Excel, Power BI, SQL Server, Looker Studio**.  
