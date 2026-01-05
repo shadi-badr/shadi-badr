@@ -1,12 +1,14 @@
 # Hi, I'm Shadi 👋
 
-I'm an aspiring **Data Analyst** passionate about learning and turning data into meaningful insights.  
+I'm an **Junior Data Analyst** passionate about learning and turning data into meaningful insights.  
+I work with **Excel, Power BI, SQL Server, Looker Studio**.  
 Currently, I'm **developing my Python skills** and exploring **Microsoft Azure for Data Analysis** to build cloud-powered analytics solutions.
 
-I enjoy working on projects that help make **data-driven decisions** and aim to grow my experience with real-world datasets.  
+I enjoy working on projects that help make **data-driven decisions** and aim to grow my experience with real-world datasets.
 
 📫 Let's connect:  
-[LinkedIn](https://www.linkedin.com/in/shadi-badr) | [Email](shadi.badr@outlook.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shadi-badr) | 💬 [WhatsApp Me](https://wa.me/201021719091)
+
 
 <!--
 **shadi-badr/shadi-badr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
