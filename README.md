@@ -24,7 +24,7 @@ I enjoy working on projects that help make **data-driven decisions** and aim to 
 </a> | 
 <a href="https://wa.me/201021719091">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="14" height="14" alt="WhatsApp" style="vertical-align:text-bottom;"/> WhatsApp
-</a>  | 📧[Email](mailto:shadi.badr@outlook.com)  
+</a>  | 📧[ Email](mailto:shadi.badr@outlook.com)  
 
 
 <!--
