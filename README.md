@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Shadi 👋</h1>
+
 I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Power BI, SQL Server, Looker Studio** to analyze real datasets, solve business problems, and deliver clear insights. Continuously improving my skills through practical projects and real-world data scenarios.
 
 ## 🎯 Current Focus
