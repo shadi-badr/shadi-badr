@@ -16,8 +16,14 @@ I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Po
 
 I enjoy working on projects that help make **data-driven decisions** and aim to grow my experience with real-world datasets.
 
-📫 Let's connect:  
-🔗 [LinkedIn](https://www.linkedin.com/in/shadi-badr) | 💬 [WhatsApp Me](https://wa.me/201021719091) | 📧 [Email](mailto:shadi.badr@outlook.com)  
+
+ Let's connect :
+<a href="https://www.linkedin.com/in/shadi-badr">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14" height="14" alt="LinkedIn" style="vertical-align:text-bottom;"/> LinkedIn
+</a> | 
+<a href="https://wa.me/201021719091">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="14" height="14" alt="WhatsApp" style="vertical-align:text-bottom;"/> WhatsApp
+</a>  | 📧 [Email](mailto:shadi.badr@outlook.com)  
 
 
 <!--
