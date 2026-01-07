@@ -3,9 +3,14 @@
 I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Power BI, SQL Server, Looker Studio** to analyze real datasets, solve business problems, and deliver clear insights. Continuously improving my skills through practical projects and real-world data scenarios.
 
 
-## 🏆 Featured Project
-**Global Superstore Project - Power BI**: Analyzing sales, customer behavior, returns, and sales rep performance to provide actionable insights.  
-🔗 [View Project on GitHub](https://github.com/shadi-badr/Global-super-store-project/blob/main/README.md)
+## 📂 Projects
+
+- [Global Superstore Project](https://github.com/shadi-badr/Global-super-store-project)
+- [Web Traffic Analytics Dashboard](https://github.com/shadi-badr/WebTraffic-Analytics-Dashboard)
+- [Market Basket Analysis Dashboard](https://github.com/shadi-badr/Market-Basket-Analysis-Dashboard)
+- [HR Attrition Employees Dashboard](https://github.com/shadi-badr/HR-Attrition-Employees-Dashboard)
+- [Quranic Surah Exploration Project](https://github.com/shadi-badr/Quranic-Surah-Exploration-Project)
+- [Mo Salah Club Career Analysis](https://github.com/shadi-badr/MoSalah-Club-Career-Analysis)
 
 
 
