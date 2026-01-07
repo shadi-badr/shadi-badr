@@ -11,7 +11,8 @@ I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Po
 
 ## 🎯 Current Focus
 - Developing my **Python** skills for data analysis  
-- Exploring **Microsoft Azure** for cloud-based analytics  
+- Exploring **Microsoft Azure** for cloud-based analytics
+- Preparing for **Microsoft Power BI Data Analyst Associate (PL-300) exam**  
 - Strengthening my **data analysis mindset** and problem-solving approach
 
 I enjoy working on projects that help make **data-driven decisions** and aim to grow my experience with real-world datasets.
