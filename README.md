@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Shadi 👋</h1>
+I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Power BI, SQL Server, Looker Studio** to analyze real datasets, solve business problems, and deliver clear insights. Continuously improving my skills through practical projects and real-world data scenarios.
 
-I'm a **Junior Data Analyst** passionate about learning and turning data into meaningful insights.  
-I work with **Excel, Power BI, SQL Server, Looker Studio**.  
-Currently, I'm **developing my Python skills** and exploring **Microsoft Azure for Data Analysis** to build cloud-powered analytics solutions.
+## 🎯 Current Focus
+
+- Developing my **Python** skills for data analysis  
+- Exploring **Microsoft Azure** for cloud-based analytics  
+- Strengthening my **data analysis mindset** and problem-solving approach
 
 I enjoy working on projects that help make **data-driven decisions** and aim to grow my experience with real-world datasets.
 
