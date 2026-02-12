@@ -5,7 +5,7 @@ I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Po
 
 ## 📂 Projects
 
-- [Global Superstore Project](https://github.com/shadi-badr/Global-super-store-project)
+- [Global Super Store Project](https://github.com/shadi-badr/Global-super-store-project)
 - [Web Traffic Analytics Dashboard](https://github.com/shadi-badr/WebTraffic-Analytics-Dashboard)
 - [Market Basket Analysis Dashboard](https://github.com/shadi-badr/Market-Basket-Analysis-Dashboard)
 - [HR Attrition Employees Dashboard](https://github.com/shadi-badr/HR-Attrition-Employees-Dashboard)
