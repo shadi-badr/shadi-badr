@@ -6,10 +6,11 @@ I'm a **Junior Data Analyst** with hands-on project experience using **Excel, Po
 ## 📂 Projects
 
 - [Global Super Store Project](https://github.com/shadi-badr/Global-super-store-project)
+- [E-Commerce Sales & Time Series Analysis with Forecasring](https://github.com/shadi-badr/E-Commerce-Sales-and-Time-Series-Analysis-with-Forecasting)
+- [Quranic Surah Exploration Project](https://github.com/shadi-badr/Quranic-Surah-Exploration-Project)
 - [Web Traffic Analytics Dashboard](https://github.com/shadi-badr/WebTraffic-Analytics-Dashboard)
 - [Market Basket Analysis Dashboard](https://github.com/shadi-badr/Market-Basket-Analysis-Dashboard)
 - [HR Attrition Employees Dashboard](https://github.com/shadi-badr/HR-Attrition-Employees-Dashboard)
-- [Quranic Surah Exploration Project](https://github.com/shadi-badr/Quranic-Surah-Exploration-Project)
 - [Mo Salah Club Career Analysis](https://github.com/shadi-badr/MoSalah-Club-Career-Analysis)
 
 
